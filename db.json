@@ -1,0 +1,40 @@
+{
+  "users": [
+    {
+      "username": "test1",
+      "dob": "2023-05-16",
+      "email": "test1@mail.com",
+      "id": 1
+    },
+    {
+      "username": "test2",
+      "dob": "2023-05-20",
+      "email": "test2@mail.com",
+      "id": 2
+    },
+    {
+      "username": "rajesh",
+      "dob": "2023-05-18",
+      "email": "rajesh@mail.com",
+      "id": 3
+    },
+    {
+      "username": "demo",
+      "dob": "2023-05-18",
+      "email": "demo@mail.com",
+      "id": 4
+    },
+    {
+      "username": "demo2",
+      "dob": "2023-05-12",
+      "email": "test1@mail.com",
+      "id": 5
+    },
+    {
+      "username": "demp3",
+      "dob": "2023-05-18",
+      "email": "demo@mail.com",
+      "id": 6
+    }
+  ]
+}
